@@ -1,3 +1,10 @@
+---
+name: breadboard-reflection
+description: Reflect on an existing breadboard by syncing it to the implementation and finding design smells. Use when reviewing a breadboard built with the breadboarding skill to verify accuracy and improve design quality.
+intent: Ensure breadboards accurately reflect the codebase and reveal design problems through naming tests, wiring checks, and place audits.
+type: component
+---
+
 # Breadboard Analysis
 
 Reflect on a breadboard by syncing it to the implementation, then finding and fixing design smells. Works on existing breadboards built with the `/breadboarding` skill.
