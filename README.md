@@ -10,22 +10,6 @@
 ![Commands](https://img.shields.io/badge/commands-6-informational?style=flat-square)
 ![Streamlit Beta](https://img.shields.io/badge/streamlit-beta-orange?style=flat-square)
 
-```text
-╔════════════════════════════════════════════════════════════════════╗
-║                                                                    ║
-║   ██████╗ ███╗   ███╗    ███████╗██╗  ██╗██╗██╗     ██╗     ███████╗
-║   ██╔══██╗████╗ ████║    ██╔════╝██║ ██╔╝██║██║     ██║     ██╔════╝
-║   ██████╔╝██╔████╔██║    ███████╗█████╔╝ ██║██║     ██║     ███████╗
-║   ██╔═══╝ ██║╚██╔╝██║    ╚════██║██╔═██╗ ██║██║     ██║     ╚════██║
-║   ██║     ██║ ╚═╝ ██║    ███████║██║  ██╗██║███████╗███████╗███████║
-║   ╚═╝     ╚═╝     ╚═╝    ╚══════╝╚═╝  ╚═╝╚═╝╚══════╝╚══════╝╚══════╝
-║                                                                    ║
-║   47 battle-tested skills + 6 command workflows                    ║
-║   Claude Code • Cursor • Codex  • n8n • OpenClaw • and more ...    ║
-║                                                                    ║
-║   v0.79 • May 15, 2026 • CC BY-NC-SA 4.0                            ║
-╚════════════════════════════════════════════════════════════════════╝
-```
 
 **Help product managers become more awesome at their craft — and help them send the ladder down to others.**
 
